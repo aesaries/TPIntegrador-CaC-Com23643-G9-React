@@ -60,6 +60,8 @@ function NavBar() {
                 <NavDropdown.Item href="/champagneFlute">Champagne flute</NavDropdown.Item>
               </NavDropdown>
               {/* <Nav.Link href="#" disabled>Link</Nav.Link> */}
+
+              <Nav.Link href="/Members">Members</Nav.Link>
             </Nav>
             <Form
               className="d-flex"

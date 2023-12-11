@@ -1,0 +1,21 @@
+h2 {
+    color: #3498db; /* Azul claro, puedes ajustar el color según tus preferencias */
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  
+  li:hover {
+    background-color: #555; /* Gris oscuro, puedes ajustar el color según tus preferencias */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
